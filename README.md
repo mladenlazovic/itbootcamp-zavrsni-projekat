@@ -3,8 +3,7 @@
 1. Uputstvo
     - git clone
     - npm install
-    - u prvom terminalu u folderu my-board-games pokrenuti sa npm start
-    - u drugom terminalu u folderu server pokrenuti sa npm run dev
+    - u terminalu u folderu my-board-games pokrenuti sa npm start
 
 
 2. Koriscene tehnologije
